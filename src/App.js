@@ -51,7 +51,7 @@ function PurchaseOrderHeader() {
       <Box sx={{ border: '1px solid black' }} className='flex justify-center p-2'>
         <Grid item xs={12} sm={6} alignItems="center" textAlign={"center"}>
           <Typography variant="h6" className="text-lg font-bold" style={{ fontWeight: 700 }}>
-            CONNECT COFFEE COMPANY LTD - Muhammad
+            CONNECT COFFEE COMPANY LTD
           </Typography>
           <div className="text-sm">
             <p>Off Riverside drive, Chiromo</p>
